@@ -1,6 +1,6 @@
 Sejam bem vindos ao nosso Quiz!
 
-Ele teve como proposito primário o desenvolvimento de um jogo para a finalização dos trabalhos da faculdade. Eu, Felipe, juntamente com a minha amiga Georgia, desenvolvemos este Quiz com diversas perguntas das matÊrias de tecnologia que tivemos durante o semestre. Para proporcionar uma melhor experiência ao usuário, decidimos criar um tema de futebol para o Quiz. Alêm de deixar o código limpo e aperfeiço-1o, planejamos tornar o Quiz mais interativo, oferecendo mais desafios e opcões
+Ele teve como proposito primário o desenvolvimento de um jogo para a finalização dos trabalhos da faculdade. Eu, Felipe, juntamente com a minha amiga Georgia, desenvolvemos este Quiz com diversas perguntas das matÊrias de tecnologia que tivemos durante o semestre. Para proporcionar uma melhor experiência ao usuário, decidimos criar um tema de futebol para o Quiz. Alêm de deixar o código limpo e aperfeiço-lo, planejamos tornar o Quiz mais interativo, oferecendo mais desafios e opcões
 
 O nosso jogo em Java funciona da seguinte forma:
 - Para cada tema, terão 9 perguntas de níveis flcil, médio e dificil;

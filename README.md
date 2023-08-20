@@ -1,14 +1,22 @@
-Sejam bem vindos ao nosso Quiz!
+<h1> Sejam bem vindos ao nosso Quiz!</h1>
+---><em>Este pequeno projeto ocorreu modificações<---</em>
+[Entrada Inicial do Quiz](midia/front.jpg)
 
-Ele teve como proposito primário o desenvolvimento de um jogo para a finalização dos trabalhos da faculdade. Eu, Felipe, juntamente com a minha amiga Georgia, desenvolvemos este Quiz com diversas perguntas das matérias de tecnologia que tivemos durante o semestre. Para proporcionar uma melhor experiência ao usuário, decidimos criar um tema de futebol para o Quiz. Além de deixar o código limpo e aperfeiço-lo, planejamos tornar o Quiz mais interativo, oferecendo mais desafios e opcões.
+Ele teve como proposito primário, o desenvolvimento de um jogo para a finalização das metodologias passadas em aula na faculdade. Eu **Felippe**, juntamente com a minha amiga [**Geórgia**](https://github.com/Georgialigia01), desenvolvemos este Quiz com diversas perguntas do tema de tecnologia que tivemos durante o semestre. E para proporcionar uma melhor experiência ao usuário, decidimos também criar um tema de futebol. Tentamos buscar tornar o código mais limpo e aperfeiço-lo durante a nossa jornada de conhecimento, planejando cada vez mais a interatividade com o usuário.
 
-O nosso jogo em Java funciona da seguinte forma:
-- Para cada tema, terão 9 perguntas de níveis flcil, médio e dificil;
-Serão geradas para o usuário 5 perguntas de cada tema aleatoriamente;
-- O usuário depois de colocar seu nickname terá o poder de escolha, com qual tema gostaria de começar;
-- Cada acerto contabilizar uma devida quantidade de pontos, com base em qual nível de pergunta o usuário acertou;
-- Se o usuário atingiu durante o percurso uma quantidade considerável para a próxima pergunta, ele terá a possibilidade de pular a pergunta;
-- Se caso o usuário queira pular, ele perderá metade dos pontos que ganharia nessa pergunta;
-- Em seguida, depois de gerar as 5 perguntas do tema escolhido, ser perguntado ao usuário se gostaria de ir para o próximo tema;
-- Caso não queira, ira imprimir sua quantidade de pontos finais e se ele foi Btimo ou deixou a desejar;
-- Caso sim, ele partirá para o próximo tema, com novas perguntas e novos desafios para no final, mostrar como foi seu desempenho;
+<h3>:student:Metodologias trabalhadas na primeira postagem:</h3>
+
+- Introdutória de classes, variavéis do tipo primitivo e referência;
+- Introdutória Aritimética, class Math, vetores, import (Scanner, Array, ArrayList e Collection);
+- Instrução de seleção dupla (if e else), repetição (while, for...) e operadores de seleção multipla (switch);
+- Operadores de incremento, decremento, break e continue;
+- Funções static e etc;
+---
+<h3>:rocket:Atualizações realizados por mim (07/23): </h3>
+
+- Variaveis de instância, métodos set e get;
+- Encapsulamento;
+- Herança (superclasse e subclasses);
+- Explorando mais as classas Arrays;
+- Pacotes;
+
